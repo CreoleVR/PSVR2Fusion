@@ -1,0 +1,3 @@
+# Serial of the tracker on your PSVR2, on its own line below (e.g. LHR-1A2B3C4D).
+# SteamVR shows it under Settings > Controllers > Manage Trackers.
+# Saved changes apply within a second, no SteamVR restart needed.

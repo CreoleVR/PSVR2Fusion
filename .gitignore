@@ -1,0 +1,6 @@
+build/
+out/
+driver/psvr2fusion/bin/win64/*.dll
+driver/psvr2fusion/bin/win64/*.pdb
+driver/psvr2fusion/bin/win64/*.exp
+driver/psvr2fusion/bin/win64/*.lib
